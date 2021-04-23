@@ -1,0 +1,40 @@
+body{
+    background-image: url("https://stage-quality.com/wp-content/uploads/2017/02/Live-music-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div audio {
+        margin: auto;
+        width: 100%;
+        padding: 10px;     
+}
+button
+{
+    font-size: larger;
+    font-family: 'Times New Roman';
+    background-color: red;
+    color:black;
+    /* display: inline-block; */
+    width:150px;
+    padding:20px 50px;
+    margin-left: 150px;
+    margin-right: 250px;
+    border-radius: 20px; 
+    text-align: center;
+}
+button:focus{
+    background-color: green;
+}
+
+#playlist {
+    margin-top: 50px;
+    margin-left: 250px;
+    width: 60%;
+    border: 10px solid #FFFF00;
+    padding: 10px;
+    text-align: center;
+  }
+  div h1 {
+      background-color: black;
+      color: yellowgreen;
+  }
